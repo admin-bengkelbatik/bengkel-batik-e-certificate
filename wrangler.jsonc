@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "bengkel-batik-e-certificate",
+  "compatibility_date": "2026-05-20",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "bengkel-batik-e-certificate"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
